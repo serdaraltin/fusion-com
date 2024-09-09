@@ -3,4 +3,4 @@ project(fusion_bridge)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(fusion_bridge main.cpp)
+add_executable(fusion_bridge src/main.cpp)
