@@ -1,6 +1,3 @@
-#include <iostream>
-#include <thread>
-#include <string>
 #include "../include/network/server.h"
 
 using namespace bridge;
