@@ -2,8 +2,8 @@
 // Created by main on 13.10.2024.
 //
 
-#ifndef FUSION_BRIDGE_SERVER_H
-#define FUSION_BRIDGE_SERVER_H
+#ifndef FUSION_BRIDGE_SERVER_HPP
+#define FUSION_BRIDGE_SERVER_HPP
 
 #include <iostream>
 #include <thread>
@@ -38,4 +38,4 @@ namespace bridge {
     };
 
 }
-#endif //FUSION_BRIDGE_SERVER_H
+#endif //FUSION_BRIDGE_SERVER_HPP

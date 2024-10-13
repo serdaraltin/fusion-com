@@ -1,4 +1,4 @@
-#include "../include/network/server.h"
+#include "../include/network/server.hpp"
 
 using namespace bridge;
 int main()
