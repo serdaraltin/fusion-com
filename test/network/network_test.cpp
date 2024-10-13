@@ -3,5 +3,18 @@
 //
 
 #include <gtest/gtest.h>
-#include <server/server.hpp>
+#include "network/server.hpp"
+
+
+using namespace Poco;
+using namespace std;
+
+namespace bridge{
+
+    TEST(Server, Server){
+
+    }
+
+
+}
 
