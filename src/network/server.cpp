@@ -2,7 +2,7 @@
 // Created by Serdar on 13.10.2024.
 //
 
-#include "server.h"
+#include "../../include/network/server.h"
 
 namespace bridge{
     Server::Server(int &port, int &bufferSize) {

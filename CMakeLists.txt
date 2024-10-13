@@ -4,8 +4,8 @@ project(fusion_bridge)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(fusion_bridge src/main.cpp
-        src/server.cpp
-        src/server.h)
+        src/network/server.cpp
+        include/network/server.h)
 
 find_package(Poco REQUIRED Net Foundation)
 

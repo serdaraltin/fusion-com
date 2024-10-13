@@ -1,7 +1,7 @@
 #include <iostream>
 #include <thread>
 #include <string>
-#include "server.h"
+#include "../include/network/server.h"
 
 using namespace bridge;
 int main()
